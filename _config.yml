@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "CurienDR-Altair"
-email: curiensmainacc@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Content I can share through my website 
+  Content I can share through my website.
 baseurl: "/curiendr-altair.github.io/docs" # the subpath of your site, e.g. /blog
 url: "https://curiendr-altair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: curiendr-altair.github.io
@@ -29,9 +28,10 @@ domain: curiendr-altair.github.io
 github_username:  curiendr-altair
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
