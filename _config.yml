@@ -17,5 +17,3 @@ full_name: :site.first_name :site.last_name
 ignore_theme_config: True
 timezone: Japan
 livereload: True
-exclude:
-  - README.md
