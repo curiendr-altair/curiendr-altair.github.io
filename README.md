@@ -1,6 +1,6 @@
-# Repository for my [website](https://curiendr-altaria.github.io)
+# Repository for my [website](https://curiendr-altair.github.io)
 
-## I'm Curien Del Rosario_！_
-### キュリアンです_！_
+## I'm Curien Del Rosario _！_
+### キュリアンです _！_
 
 ### Made with [Jekyll](https://jekyllrb.com/)
