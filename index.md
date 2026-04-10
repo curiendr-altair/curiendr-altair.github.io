@@ -1,4 +1,3 @@
 ---
-permalink: /docs
 ---
 Hello Worm!
