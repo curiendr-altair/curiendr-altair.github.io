@@ -1,10 +1,19 @@
-title: "CurienDR-Altair's Website"
-description: >- # this means to ignore newlines until "baseurl:"
-  Content I can share through my website.
-baseurl: "/curiendr-altair.github.io/docs" # the subpath of your site, e.g. /blog
-url: "https://curiendr-altair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: CurienDR-Altair's Website
+description: >-
+  You've come to the right place, this is Curien Del Rosario's den.
+  「星」という漢字が一番好き！
+baseurl: /curiendr-altair.github.io/docs
+url: "https://curiendr-altair.github.io"
 domain: curiendr-altair.github.io
-github_username:  curiendr-altair
+github_username: curiendr-altair
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+github: [metadata]
+first_name: Curien
+last_name: Del Rosario
+full_name: :site.first_name :site.last_name
+ignore_theme_config: True
+timezone: Japan
+livereload: True
